@@ -1,3 +1,8 @@
 div {
     background: fuchsia;
 }
+/* Layout */
+#main {
+	width: 70%;
+	float: left;
+}
